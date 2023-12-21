@@ -1,0 +1,22 @@
+{
+  "name": "node_time_bomb",
+  "version": "1.0.0",
+  "description": "The Node.js Time Bomb, conceptualized and designed by Muhammed Aslam Shah S, is an innovative software application that encapsulates the essence of suspense and urgency through its simulated countdown mechanism. Harnessing the capabilities of the Node.js runtime environment, Muhammed Aslam Shah S has crafted a dynamic and engaging tool that transcends conventional boundaries of JavaScript applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "start-time-bomb"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammedaslamshah/time_BomB_node.js.git"
+  },
+  "keywords": [
+    "time-BomB"
+  ],
+  "author": "muhammed_aslam_shah_s",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhammedaslamshah/time_BomB_node.js/issues"
+  },
+  "homepage": "https://github.com/muhammedaslamshah/time_BomB_node.js#readme"
+}
